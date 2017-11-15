@@ -1,0 +1,5 @@
+[Autorun]
+Open=BlinkEye.exe
+Action=BlinkEye
+Label=BlinkEye
+Icon=BlinkEye.exe
